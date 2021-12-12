@@ -95,6 +95,7 @@ void main(void)
         gSystemState = STATE0;
         result1 = RunStateMachine(1);
         
+        
         //gSystemState should be incremented by function
         result2 = RunStateMachine(2);
         
